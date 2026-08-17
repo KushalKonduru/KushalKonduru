@@ -1,1 +1,1 @@
-<img src="./termi.png" alt="Kushalkr developer profile" width="100%">
+<img src="./termi.gif" alt="Kushalkr developer profile" width="100%">
